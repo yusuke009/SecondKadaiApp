@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		964740F8255F44FB00C6895D /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 964740F7255F44FB00C6895D /* ResultViewController.swift */; };
 		967A8C63255D6E420022AE24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967A8C62255D6E420022AE24 /* AppDelegate.swift */; };
 		967A8C65255D6E420022AE24 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967A8C64255D6E420022AE24 /* SceneDelegate.swift */; };
 		967A8C67255D6E420022AE24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967A8C66255D6E420022AE24 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		964740F7255F44FB00C6895D /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		967A8C5F255D6E420022AE24 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		967A8C62255D6E420022AE24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		967A8C64255D6E420022AE24 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				967A8C62255D6E420022AE24 /* AppDelegate.swift */,
 				967A8C64255D6E420022AE24 /* SceneDelegate.swift */,
 				967A8C66255D6E420022AE24 /* ViewController.swift */,
+				964740F7255F44FB00C6895D /* ResultViewController.swift */,
 				967A8C68255D6E420022AE24 /* Main.storyboard */,
 				967A8C6B255D6E440022AE24 /* Assets.xcassets */,
 				967A8C6D255D6E440022AE24 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				967A8C67255D6E420022AE24 /* ViewController.swift in Sources */,
 				967A8C63255D6E420022AE24 /* AppDelegate.swift in Sources */,
 				967A8C65255D6E420022AE24 /* SceneDelegate.swift in Sources */,
+				964740F8255F44FB00C6895D /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
